@@ -6,5 +6,9 @@ Credits to <a href="https://www.dio.me/sign-in" target="_blank">Digital Innovati
 
 ![screenshot](example.png?raw=true "screenshot")
 
+## <strong>How to play:</strong>
+
+- Jump to avoid the cactus
+
 # License
 This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details
