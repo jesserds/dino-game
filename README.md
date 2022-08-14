@@ -1,6 +1,6 @@
-# Dino Game
+# Dinosaur Game
 
-Dino Game: using only JS, HTML and CSS <a href="https://jesserds.github.io/dino-game/" target="_blank">(Press to play)</a>
+The Dinosaur Game using only JS, HTML and CSS <a href="https://jesserds.github.io/dino-game/" target="_blank">(Press to play)</a>
 
 Credits to <a href="https://www.dio.me/sign-in" target="_blank">Digital Innovation One</a>
 
