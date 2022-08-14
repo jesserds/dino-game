@@ -1,5 +1,8 @@
-# Dino Game 
-Dino game for Digital Innovation One's lesson, using only JS, HTML and CSS
+# Dino Game
+
+Dino Game: using only JS, HTML and CSS <a href="https://jesserds.github.io/dino-game/" target="_blank">(Press to play)</a>
+
+Credits to <a href="https://www.dio.me/sign-in" target="_blank">Digital Innovation One</a>
 
 ![screenshot](example.png?raw=true "screenshot")
 
