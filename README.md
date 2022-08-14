@@ -8,7 +8,7 @@ Credits to <a href="https://www.dio.me/sign-in" target="_blank">Digital Innovati
 
 ## <strong>How to play:</strong>
 
-- Jump to avoid the cactus
+- Avoid the cactur (Press spacebar to jump)
 
 # License
 This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details
